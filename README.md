@@ -1,8 +1,6 @@
-# git_introduction
-introduction about github
 ####title of this page
-####third size of the characters
-####second size of the characters
+###third size of the characters
+##second size of the characters
 #maximum size of the characters
 
 ***
