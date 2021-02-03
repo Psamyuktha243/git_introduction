@@ -18,5 +18,5 @@ how to open hyper links [apssdc] ( https://www.apssdc.i)
 
 [ciet college] (https://www.chalapathiengg.ac.in/)
 
-[image1] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKklDtHuJJ8nrDBUqCtI_joTp3Qv4hKpH8A&usqp=CAU)
+[image1] ()
 
